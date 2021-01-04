@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+DB_Url=jdbc:mysql://localhost:3306/edlee
+user=root
+password=haosql
