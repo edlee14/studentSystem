@@ -14,14 +14,14 @@ public class DB_Util {
 
 	static String driver;
 	static String DB_Url;
-	static String user;
+	static String user;  
 	static String password;
 
 	static {
 		
 
 		driver = "com.mysql.jdbc.Driver";
-		DB_Url = "jdbc:mysql://localhost:3306/edlee";
+		DB_Url = "jdbc:mysql://localhost:3307/edlee";
 		user = "root";
 		password = "haosql";
 

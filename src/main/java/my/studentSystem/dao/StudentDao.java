@@ -56,7 +56,7 @@ public class StudentDao {
 	}
 	
 	
-	//查询 studentCode，studentNo有没有
+
 	public Student getAccountDetails(String studentCode,
             String studentNo) {
 		
